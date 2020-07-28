@@ -1,2 +1,2 @@
-test = "This is an updated test"
+test = "This is a test"
 print(test)
